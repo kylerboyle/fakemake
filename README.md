@@ -1,4 +1,5 @@
-##Fakemake
+
+#Fakemake
 
 This project was the final programming assignment for my data structures class. It makes a directed acyclic graph from the data file specified as the first argument. If a cycle is detected, the program reports a detected loop and aborts. If no cycle is detected, the user can use the commands specified below to update 'files' and their dependencies, just as the make command does. All functions have runtime requirements that were either met or exceeded in this implementation. More specific details about the project can be found in the handout.pdf.
 
